@@ -21,7 +21,8 @@ This repository includes solutions to various programming problems from the Kalv
 | No. | Name Of Module     | Solved | Total |
 |-----|--------------------|--------|-------|
 | 1   | Control Structures | 36     | 36    |
-| 2   | Arrays & String    |        |       |
+| 2   | Arrays & String    |        | 32    |
+| 3   | Program Development|        | 30    |
 
 More categories will be added as the repository grows!
 
