@@ -24,7 +24,7 @@ This repository includes solutions to various programming problems from the Kalv
 | 2   | Arrays & String    | 26     | 32    |
 | 3   | Program Development| 0      | 30    |
 
-More categories will be added as the repository grows!
+More categories will be added as t  e repository grows!
 
 ## 💡 Contribution
 Feel free to open an issue if you find any **errors** or have suggestions for improvement. **Contributions are welcome!**
