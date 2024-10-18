@@ -1,1 +1,0 @@
-//Count prime elements in an array
