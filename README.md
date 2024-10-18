@@ -17,12 +17,12 @@ This repository includes solutions to various programming problems from the Kalv
 - Regularly updated as I solve more problems.
 
 ## 📝 Table of Contents
-**Not Included the first module.**
-| No. | Name Of Module     | Solved | Total |
-|-----|--------------------|--------|-------|
-| 1   | Control Structures | 36     | 36    |
-| 2   | Arrays & String    | 26     | 32    |
-| 3   | Program Development| 0      | 30    |
+| No. | Name Of Module                      | Solved | Total |
+|-----|-------------------------------------|--------|-------|
+| 1   | Getting started with Problem Solving| 13     | 13    |
+| 2   | Control Structures                  | 36     | 36    |
+| 3   | Arrays & String                     | 29     | 32    |
+| 4   | Program Development                 | 0      | 30    |
 
 More categories will be added as t  e repository grows!
 
